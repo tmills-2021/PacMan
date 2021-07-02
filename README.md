@@ -1,2 +1,2 @@
 # PacMan
-Testing page bounds with a PacMan image to reverse direction at each edge
+This project delves into the idea of page bounds and replacing images based on directio of travel.  Initially PacMan is moving to the right, alternating between open and closed mouth images. Upon hitting the right page bound, PacMan will reverse direction, swaping images for left facing PacMan, and proceed to move across the page to the left, until hitting the opposite page bound.  This also allowed us to test the use of setInterval to automate the movement.
